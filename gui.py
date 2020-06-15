@@ -5,8 +5,8 @@ from bot import chat
 import pyttsx3
 import threading
 
-saved_username = ["You"]
-#ans=["PyBot"]
+saved_username = ["Human"]
+#ans=["Anna"]
 window_size="400x400"
 
 class ChatInterface(Frame):
