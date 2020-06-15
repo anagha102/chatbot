@@ -15,7 +15,7 @@ class ChatInterface(Frame):
         Frame.__init__(self, master)
         self.master = master
 
-        # sets default bg for top level windows
+       # sets default bg for top level windows
         self.tl_bg = "#EEEEEE"
         self.tl_bg2 = "#EEEEEE"
         self.tl_fg = "#000000"
@@ -23,26 +23,21 @@ class ChatInterface(Frame):
 
         menu = Menu(self.master)
         self.master.config(menu=menu, bd=5)
-# Menu bar
-
-    # File
+       # Menu bar
+       # File
         file = Menu(menu, tearoff=0)
         menu.add_cascade(label="File", menu=file)
        # file.add_command(label="Save Chat Log", command=self.save_chat)
         file.add_command(label="Clear Chat", command=self.clear_chat)
-      #  file.add_separator()
+       #  file.add_separator()
         file.add_command(label="Exit",command=self.chatexit)
 
-    # Options
+       # Options
         options = Menu(menu, tearoff=0)
         menu.add_cascade(label="Options", menu=options)
 
-        # username
-       
-
-        
-
-        # font
+       # username
+       # font
         font = Menu(options, tearoff=0)
         options.add_cascade(label="Font", menu=font)
         font.add_command(label="Default",command=self.font_change_default)
@@ -51,7 +46,7 @@ class ChatInterface(Frame):
         font.add_command(label="Helvetica",command=self.font_change_helvetica)
         font.add_command(label="Fixedsys",command=self.font_change_fixedsys)
 
-        # color theme
+       # color theme
         color_theme = Menu(options, tearoff=0)
         options.add_cascade(label="Color Theme", menu=color_theme)
         color_theme.add_command(label="Default",command=self.color_theme_default) 
@@ -74,31 +69,31 @@ class ChatInterface(Frame):
         self.text_frame = Frame(self.master, bd=6)
         self.text_frame.pack(expand=True, fill=BOTH)
 
-        # scrollbar for text box
+       # scrollbar for text box
         self.text_box_scrollbar = Scrollbar(self.text_frame, bd=0)
         self.text_box_scrollbar.pack(fill=Y, side=RIGHT)
 
-        # contains messages
+       # contains messages
         self.text_box = Text(self.text_frame, yscrollcommand=self.text_box_scrollbar.set, state=DISABLED,
                              bd=1, padx=6, pady=6, spacing3=8, wrap=WORD, bg=None, font="Verdana 10", relief=GROOVE,
                              width=10, height=1)
         self.text_box.pack(expand=True, fill=BOTH)
         self.text_box_scrollbar.config(command=self.text_box.yview)
 
-        # frame containing user entry field
+       # frame containing user entry field
         self.entry_frame = Frame(self.master, bd=1)
         self.entry_frame.pack(side=LEFT, fill=BOTH, expand=True)
 
-        # entry field
+       # entry field
         self.entry_field = Entry(self.entry_frame, bd=1, justify=LEFT)
         self.entry_field.pack(fill=X, padx=6, pady=6, ipady=3)
-        # self.users_message = self.entry_field.get()
+       # self.users_message = self.entry_field.get()
 
-        # frame containing send button and emoji button
+       # frame containing send button and emoji button
         self.send_button_frame = Frame(self.master, bd=0)
         self.send_button_frame.pack(fill=BOTH)
 
-        # send button
+       # send button
         self.send_button = Button(self.send_button_frame, text="Send", width=5, relief=GROOVE, bg='white',
                                   bd=1, command=lambda: self.send_message_insert(None), activebackground="#FFFFFF",
                                   activeforeground="#000000")
@@ -106,8 +101,8 @@ class ChatInterface(Frame):
         self.master.bind("<Return>", self.send_message_insert)
         
         self.last_sent_label(date="No messages sent.")
-        #t2 = threading.Thread(target=self.send_message_insert(, name='t1')
-        #t2.start()
+       #t2 = threading.Thread(target=self.send_message_insert(, name='t1')
+       #t2.start()
         
 
     def playResponce(self,responce):
@@ -123,7 +118,7 @@ class ChatInterface(Frame):
         x.setProperty('volume',100)
         x.say(responce)
         x.runAndWait()
-        #print("Played Successfully......")
+       #print("Played Successfully......")
         
         
     def last_sent_label(self, date):
