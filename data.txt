@@ -1,0 +1,72 @@
+Blood pressure is pressure of circulating blood on the walls of blood vessels.
+
+Systolic blood pressure is the pressure when the heart beats – while the heart muscle is contracting (squeezing) and pumping oxygen-rich blood into the blood vessels.
+
+Diastolic blood pressure is the pressure on the blood vessels when the heart muscle relaxes. The diastolic pressure is always lower than the systolic pressure.
+
+Blood pressure is measured in units of millimeters of mercury (mmHg). The readings are always given in pairs, with the upper (systolic) value first, followed by the lower (diastolic) value.
+ 
+Blood pressure is always measured on a number of different days and when you are at rest. 
+
+High blood pressure or hypertension is a condition in which force of blood against artery walls is too high. High blood pressure or hypertension ranges above 140/90.
+
+Normal blood pressure is less than 120 over 80(120/80).
+
+When taking your blood pressure for the first time, it makes sense to measure the blood pressure in both arms, because it's sometimes high on only one side. The values that are higher are always the ones used for assessing blood pressure. After that it is enough to measure the blood pressure only in the arm that produced the higher reading. 
+
+High blood pressure shows symptoms like dizziness or trouble seeing. 
+
+High blood pressure causes increase in risk of cardiovascular problems like heart attacks, strokes, and heart and kidney failure.
+
+Blood pressure is said to be high if blood pressure is over 140/90 mmHg.
+
+Blood pressure can also change due to things like physical exertion, stress, pain, or extreme heat or cold. But this kind of increase in blood pressure is only temporary and it soon returns to normal.
+
+You can measure your blood pressure on your own using a digital blood pressure monitor for automated readings or an instrument called a sphygmomanometer for manual readings.
+
+Digital blood pressure monitors are often used on the wrist, but they can also be placed on the finger or upper arm and are activated simply by pressing a button. When taking blood pressure measurements on the wrist, it's important to keep the hand level with the heart. Otherwise it can affect the readings.
+
+Digital meters can sometimes be inaccurate and produce unreliable readings anyway – especially in people with certain heart rhythm problems or arteries that have hardened due to arteriosclerosis.
+
+A sphygmomanometer has three parts: a cuff that can be inflated with air, a pressure meter (manometer) for measuring air pressure in the cuff, and a stethoscope for listening to the sound the blood makes as it flows through the brachial artery (the major artery found in your upper arm).
+The scale of the pressure meter ranges from 0 to 300 mmHg. The pressure meter has a rubber pump on it for inflating the cuff and a button for letting the air out.
+
+To measure blood pressure by sphygmomanometer, the cuff is placed around the bare and stretched out upper arm, and inflated until no blood can flow through the brachial artery. Then the air is slowly let out of the cuff.
+
+As soon as the air pressure in the cuff falls below the systolic blood pressure in the brachial artery, blood will start to flow through the arm once again. This creates a pounding sound when the arteries close again and the walls of the vessels hit each other after a heart beat. The sound can be heard by placing the stethoscope close to the elbow. Right when you start to hear this pounding for the first time you can read your systolic blood pressure off the pressure meter.
+
+The pounding sound stops when the air pressure in the cuff falls below the diastolic blood pressure in the brachial artery. Then the blood vessels remain open. Right when the pounding stops, you can read the diastolic blood pressure off the pressure meter.
+
+If a doctor recommends ambulatory blood pressure monitoring, you will need to wear a blood pressure cuff for 24 hours. It's connected to a small, portable measuring device that automatically measures your blood pressure at set times and records the readings.
+
+Ambulatory blood pressure monitoring is used, for example, to see whether blood pressure levels vary greatly over the course of the day and night or whether they are constantly elevated. 
+
+During those 24 hours of ambulatory blood pressure monitoring, you can do all of the usual things you would otherwise do over the course of the day. If you are especially active at certain times, you can make a note in a diary. Then the doctor has a better idea of how to interpret the recorded values when evaluating them.
+
+Adverse drug reactions (adverse effects) are any unwanted effects of a drug. 
+
+Different types of adverse drug reaction are- Dose related, Allergic and Idiosyncratic.
+
+Dose-related adverse drug reactions represent an exaggeration of the drug's therapeutic effects. For example, a person taking a drug to reduce high blood pressure may feel dizzy or light-headed if the drug reduces blood pressure too much. A person with diabetes may develop weakness, sweating, nausea, and palpitations if insulin or an oral antidiabetic drug reduces the blood sugar level too much. It may occur if a drug dose is too high (overdose reaction), if the person is unusually sensitive to the drug, or if another drug slows the metabolism of the first drug and thus increases its level in the blood (see Drug Interactions). 
+
+Allergic drug reactions require prior exposure to a drug. Allergic reactions develop when the body's immune system develops an inappropriate reaction to a drug (sometimes referred to as sensitization). After a person is sensitized, later exposures to the drug produce one of several different types of allergic reaction.
+
+Idiosyncratic adverse drug reactions result from mechanisms that are not currently understood. This type of adverse drug reaction is largely unpredictable. Examples of such adverse drug reactions include rashes, jaundice, anemia, a decrease in the white blood cell count, kidney damage, and nerve injury that may impair vision or hearing. Affected people may have genetic differences in the way their body metabolizes or responds to drugs.
+
+Some adverse drug reactions are not related to the drug's therapeutic effect but are usually predictable, because the mechanisms involved are largely understood. For example, stomach irritation and bleeding often occur in people who regularly use aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs). The reason is that these drugs reduce the production of prostaglandins, which help protect the digestive tract from stomach acid.
+
+Severity of Adverse Drug Reactions - Mild, Moderate, Severe or Lethal (deadly)
+
+Mild or moderate adverse drug reactions do not necessarily mean that people must stop taking a drug, especially if no suitable alternative is available. However, doctors are likely to reevaluate the dose, frequency of use, and timing of doses Other drugs may be used to control the adverse drug reaction.
+
+Mild reactions usually described as of minor significance include digestive disturbances, Headaches, Fatigue, Vague muscle aches, Malaise (a general feeling of illness or discomfort), Changes in sleep patterns.
+
+Moderate reactions include Rashes, Visual disturbances, Muscle tremor, Difficulty with urination, Any perceptible change in mood or mental function, Certain changes in blood components.
+
+Severe reactions include those that may be life threatening (such as liver failure, abnormal heart rhythms, certain types of allergic reactions), that result in persistent or significant disability or hospitalization, and that cause a birth defect.
+
+People who develop a severe reaction usually must stop using the drug and must be treated. However, doctors must sometimes continue giving high-risk drugs. Doctors use every possible means to control a severe adverse drug reaction.
+
+Lethal reactions are those in which a drug reaction directly or indirectly caused death. 
+
+Lethal reactions are typically severe reactions that were not detected in time or did not respond to treatment. Lethal reactions can be the reasons that some drugs are withdrawn from the market (such as troglitazone and terfenadine).
